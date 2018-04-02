@@ -1,5 +1,6 @@
 body {
   font-family: 'Lato';
+  /* background-image: url("../img/background1.JPG") !important; */
 }
 
 h1,
@@ -342,18 +343,30 @@ form .row:first-child .floating-label-form-group {
 
 a {
   color: #2D96F4;
+
 }
 
 a:focus, a:hover, a:active {
   color: #128f76;
 }
 
+
+
 .btn {
   border-width: 2px;
 }
 
+#jumbotron {
+  width: auto;
+  height: 500px;
+  /* background-image: url("../img/background1.JPG") !important; */
+
+}
+
 .bg-primary {
-  background-color: #2D96F4 !important;
+  background-color: none !important;
+  background-image: url("../img/background1.JPG") !important;
+  background-size: cover;
 }
 
 .bg-secondary {
