@@ -365,7 +365,7 @@ a:focus, a:hover, a:active {
 
 .bg-primary {
   /* background-color: none !important; */
-  background-image: url("../img/background1.JPG") !important;
+  background-image: url("https://images.unsplash.com/photo-1520699049698-acd2fccb8cc8?ixlib=rb-0.3.5&s=601969f947867e5528ae7090ce5d3faf&auto=format&fit=crop&w=1350&q=80") !important;
   background-size: cover;
 }
 
