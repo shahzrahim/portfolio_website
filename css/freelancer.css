@@ -364,7 +364,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: none !important;
+  /* background-color: none !important; */
   background-image: url("../img/background1.JPG") !important;
   background-size: cover;
 }
